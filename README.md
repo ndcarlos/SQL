@@ -3,6 +3,11 @@
 A collection of work done in SQL
 
 **Built With**
+- SQL Languages
 
-1. SQL Languages
-   SQLite
+   - SQLite
+
+- Tools
+  
+   - DB Browser for SQLite
+ 
